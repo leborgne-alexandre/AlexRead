@@ -20,4 +20,4 @@
 
 
 #### CV
-- :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
+- :paperclip: [My Resume/CV](https://github.com/leborgne-alexandre/leborgne-alexandre/blob/main/CV.pdf)
