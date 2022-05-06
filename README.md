@@ -3,8 +3,7 @@
 ## I'm a React and Node Developper ! 
 
 - 🌱 I’m currently learn a lot every day 🤣
-- 👯 I’m looking to join a good team
-- 🥅 2021 Goals: Learn and learn more
+- 🥅 202X Goals: Learn and learn more
 - ⚡ Fun fact: I actually like coding 🤔
 
 <br />
