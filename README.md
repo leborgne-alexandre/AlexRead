@@ -20,4 +20,3 @@
 
 #### More Infos 
 - :paperclip: [My Resume/CV](https://github.com/leborgne-alexandre/leborgne-alexandre/blob/main/CV.pdf)
-- portfolio : https://portfolio-mu-ivory.vercel.app/
