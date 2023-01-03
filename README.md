@@ -11,10 +11,6 @@
 <!-- [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
 
 
-#### More Infos 
-- :paperclip: [My Resume/CV](https://github.com/leborgne-alexandre/leborgne-alexandre/blob/main/CV.pdf)
-
-
 
 
 
